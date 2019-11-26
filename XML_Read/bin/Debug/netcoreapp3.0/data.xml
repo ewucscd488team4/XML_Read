@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <Profile>
+    <name>Windows 10</name>
+    <name>Windows 8</name>
+    <name>Windows XP</name>
+    <name>Windows NT</name>
+    <name>Windows 98SE</name>
+  </Profile>
+</root>

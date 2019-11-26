@@ -1,0 +1,14 @@
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\Testing\XML_Read\XML_Read\bin\Debug\netcoreapp3.0\XML_Read.exe
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\Testing\XML_Read\XML_Read\bin\Debug\netcoreapp3.0\XML_Read.deps.json
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\Testing\XML_Read\XML_Read\bin\Debug\netcoreapp3.0\XML_Read.runtimeconfig.json
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\Testing\XML_Read\XML_Read\bin\Debug\netcoreapp3.0\XML_Read.runtimeconfig.dev.json
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\Testing\XML_Read\XML_Read\bin\Debug\netcoreapp3.0\XML_Read.dll
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\Testing\XML_Read\XML_Read\bin\Debug\netcoreapp3.0\XML_Read.pdb
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\Testing\XML_Read\XML_Read\obj\Debug\netcoreapp3.0\XML_Read.AssemblyInfoInputs.cache
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\Testing\XML_Read\XML_Read\obj\Debug\netcoreapp3.0\XML_Read.AssemblyInfo.cs
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\Testing\XML_Read\XML_Read\obj\Debug\netcoreapp3.0\XML_Read.dll
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\Testing\XML_Read\XML_Read\obj\Debug\netcoreapp3.0\XML_Read.pdb
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\Testing\XML_Read\XML_Read\obj\Debug\netcoreapp3.0\XML_Read.csprojAssemblyReference.cache
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\Testing\XML_Read\XML_Read\bin\Debug\netcoreapp3.0\SAUSALibrary.dll
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\Testing\XML_Read\XML_Read\bin\Debug\netcoreapp3.0\SAUSALibrary.pdb
+C:\Users\Diesel\Documents\c sharp workspaces\cscd488\Testing\XML_Read\XML_Read\obj\Debug\netcoreapp3.0\XML_Read.csproj.CopyComplete

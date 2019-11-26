@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XML_Read", "XML_Read\XML_Read.csproj", "{1A9CB68D-CBB4-4D28-AF37-A189600A6DD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAUSALibrary", "SAUSALibrary\SAUSALibrary.csproj", "{AE7555A6-C86C-4927-98DA-65CC5C4B184B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A9CB68D-CBB4-4D28-AF37-A189600A6DD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A9CB68D-CBB4-4D28-AF37-A189600A6DD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A9CB68D-CBB4-4D28-AF37-A189600A6DD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A9CB68D-CBB4-4D28-AF37-A189600A6DD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE7555A6-C86C-4927-98DA-65CC5C4B184B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE7555A6-C86C-4927-98DA-65CC5C4B184B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE7555A6-C86C-4927-98DA-65CC5C4B184B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE7555A6-C86C-4927-98DA-65CC5C4B184B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AB1D16E-6C9F-46D6-A9FC-FB26858189DC}
+	EndGlobalSection
+EndGlobal
