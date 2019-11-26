@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sausa>
+    <Storage>
+        <Storage Length="1040.0000" Width="960.0000" Height="480.0000" Weight="40000.0000"/>
+    </Storage>
+    <Database>
+        <Database Type="MySQL" Server="MYSQL5022.site4now.net" Database="db_a4733c_sausa" UserID="a4733c_sausa" Password="Sausa#1test"/>
+    </Database>
+</Sausa>
